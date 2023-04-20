@@ -5,5 +5,9 @@ func Hello() string {
 }
 
 func Goodbye() string {
-  return "Goodbye for now!"
+	return "Goodbye for now!"
+}
+
+func FrenchGoodbye() string {
+	return "Au revoir!"
 }
